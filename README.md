@@ -10,3 +10,7 @@ Fannys testtext
 
 Sample website with plenty of files for demos
 ## How to contribute
+
+Fannys testtext 2
+
+Fannys testtext 3
