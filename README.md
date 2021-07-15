@@ -13,12 +13,4 @@ Fannys testtext
 Sample website with plenty of files for demos
 ## How to contribute
 
-Fannys testtext 2
-
-Fannys testtext 3
-
-Fannys testtext 4
-
-Fannys testtext 5
-
-Fannys testtext 6
+Tog bort alla testtexter 
